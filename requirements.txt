@@ -24,3 +24,8 @@ sqlparse==0.4.3
 text-unidecode==1.3
 toml==0.10.2
 urllib3==1.26.13
+
+gunicorn                      # Added by simple_deploy command.
+psycopg2-binary               # Added by simple_deploy command.
+dj-database-url               # Added by simple_deploy command.
+whitenoise                    # Added by simple_deploy command.

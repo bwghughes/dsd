@@ -171,3 +171,6 @@ cert.pem
 key.pem
 McQueen.cyberduckprofile
 partnermaturity/account_maps.xlsx
+
+# Ignore logs from simple_deploy.
+simple_deploy_logs/
